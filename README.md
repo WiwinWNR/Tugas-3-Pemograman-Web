@@ -1,4 +1,4 @@
-# Tugas-3-Pemograman-Web
+# Praktikum 3 : PHP dan Database MySQL
 # Menjalankan MySQL Server
 Untuk menjalankan MySQL Server dari menu XAMPP Contol.
 ![xampp](https://user-images.githubusercontent.com/115921167/227753623-ec72abe8-0d41-4439-abc0-c090f1f48f60.png)
